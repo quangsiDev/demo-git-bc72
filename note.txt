@@ -4,9 +4,16 @@
 -- Đẩy lần đầu ( trên github chưa có nhánh master)
 git add -A
 git commit -m " create home page html "
-git push -u origin master
+git push -u origin [tên nhánh hiện tại]
 
 -- Đẩy lần 2 trở đi
 git add -A
 git commit -m " create home page html "
 git push
+
+
+
+-- Tạo nhánh
+git checkout -b [tên nhánh]
+
+
