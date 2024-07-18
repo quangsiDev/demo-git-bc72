@@ -10,3 +10,13 @@ git push -u origin master
 git add -A
 git commit -m " create home page html "
 git push
+
+
+
+--- Xem các nhánh đang có trong máy
+git branch
+
+
+--- Gom code từ 2 login về master ( đứng tại nhánh master )
+
+git merge login
