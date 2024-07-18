@@ -16,4 +16,6 @@ git push
 -- Tạo nhánh
 git checkout -b [tên nhánh]
 
+-- Chuyển nhánh
 
+git checkout [tên nhánh]
